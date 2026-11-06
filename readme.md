@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Ayan Mahajan&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Aayan_Mahajan&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student;Always+Learning;Building+One+Commit+at+a+Time" alt="Typing SVG" />
 
@@ -16,7 +16,7 @@
 ## 👤 Who I Am
 
 ```ts
-const ayan_mahajan = {
+const aayan_mahajan = {
   title: "CS Student",
   status: "Learning, exploring, and growing as a developer",
 } as const;
